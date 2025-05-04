@@ -40,6 +40,5 @@ The robot will be equipped with the following key components:
 * **Data Processing:**  Radiation data, GPS coordinates, and timestamps will be processed and visualized using appropriate software or programming libraries.
 * **Radiation Map:** A high-resolution radiation map will be generated, correlating radiation readings with GPS coordinates.
 * **Hotspot Identification:**  Algorithms will be used to identify areas with significantly elevated radiation levels.
-* **KNRA Collaboration:**  The project will involve close collaboration with the KNRA to analyze the data, assess potential risks, and inform decision-making.
 
 This project offers a unique opportunity to apply robotics and nuclear physics expertise to address a real-world environmental challenge in Kenya. The findings will contribute to a better understanding of the radiological conditions in Marsabit and support informed decision-making for environmental protection and public health.
